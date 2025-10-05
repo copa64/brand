@@ -119,8 +119,10 @@ p {
 img {
   border: solid 5px white;
   border-radius: 20px;
-  width: 300px;
+  width: 250px;
   height: auto;
+  justify-content: center;
+  align-items: center;
 
 }
 
